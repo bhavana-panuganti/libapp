@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "6367369154",
+    "project_id": "libapp-82918",
+    "storage_bucket": "libapp-82918.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:6367369154:android:6292b4b6dbbe599d46285b",
+        "android_client_info": {
+          "package_name": "com.example.libapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqHohpnrD8BC9i6HJvveEmgAphBu69jT0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
